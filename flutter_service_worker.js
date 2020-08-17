@@ -13,7 +13,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
 "index.html": "eb415b57e8bb64474e224410524d16b9",
 "/": "eb415b57e8bb64474e224410524d16b9",
-"main.dart.js": "b9fb37e7c86bfd2eb150a4c7812bb6a3"
+"main.dart.js": "49617460fed68595ba7a4c645c91a963"
 };
 
 // The application shell files that are downloaded before a service worker can
